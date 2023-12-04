@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammadreza 
 - 👀 I’m interested in back-end development
-- 🌱 I’m currently learning RESTful API 
+- 🌱 I’m currently learning REACT.JS 
 - 📫 How to reach me? mrrahbarnia@gmail.com
 
 <!---
