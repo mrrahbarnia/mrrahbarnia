@@ -8,7 +8,7 @@ mrrahbarnia/mrrahbarnia is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 </hr>
-<p>I am a junior backend-developer with a lot of passion for learning and improving my skils 
+<p>I am a junior backend-developer with a lot of passion for learning and improving my skills 
 in this field,interested to collaborate on projects as a backend-developer.</p>
 <p>Skilled in Python,Django and many technologies like databases,message brokers,multiprocessing,websockets and so on.</p>
 <p>I also have some experienced in using microservices architecture and devops tools like Jenkins,Docker and Kubernetes.</p>
