@@ -13,7 +13,7 @@ in this field,interested to collaborate on projects as a backend-developer.</p>
 <p>Skilled in Python,Django and many technologies like databases,message brokers,multiprocessing,websockets and so on.</p>
 <p>I also have some experienced in using microservices architecture and devops tools like Jenkins,Docker and Kubernetes.</p>
 </hr>
-<h3>Soft Skills</h3>
+<h2>Soft Skills</h2>
 <p>Communication</p>
 <p>Attention to Detail</p>
 <p>Problem Solving</p>
