@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza Rahbarnia</h1>
 <h3 align="center">I am a backend-developer with a lot of passion for learning and improving my skills in this field,interested to collaborate on projects as a backend-developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrrahbarnia" alt="mrrahbarnia" /></a> </p>
-
 - 🌱 I’m currently learning **Devops engineering**
 
 - 👀 I’m interested in **back-end development**
