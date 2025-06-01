@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 - **Languages:** Python 🐍 | Go 🦫 | C
-- **Frameworks:** FastAPI 🚀 | Django 🕸 | Django REST Framework
+- **Frameworks:** FastAPI 🚀 | Django 🕸 | Django REST Framework | Chi | Echo
 - **Databases & Tools:** PostgreSQL 🐘 | Redis 🧠 | RabbitMQ 📬
 - **DevOps & OS:** Linux 🐧 | Docker 🐳 | CI/CD Pipelines ⚙️
 - **Favorites:** SQLAlchemy | Pydantic
