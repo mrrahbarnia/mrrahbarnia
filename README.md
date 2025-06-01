@@ -34,6 +34,7 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mohammadreza-rahbarnia-b17545367/)
+- 📧 **Email:** mrrahbarnia@gmail.com  
+- 💼 **LinkedIn:** [mohammadreza-rahbarnia](https://www.linkedin.com/in/mohammadreza-rahbarnia-b17545367/)
 
 
